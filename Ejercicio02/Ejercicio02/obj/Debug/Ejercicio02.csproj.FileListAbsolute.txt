@@ -1,0 +1,10 @@
+D:\Repos\TemarioExtra\Ejercicio02\Ejercicio02\bin\Debug\Ejercicio02.exe.config
+D:\Repos\TemarioExtra\Ejercicio02\Ejercicio02\bin\Debug\Ejercicio02.exe
+D:\Repos\TemarioExtra\Ejercicio02\Ejercicio02\bin\Debug\Ejercicio02.pdb
+D:\Repos\TemarioExtra\Ejercicio02\Ejercicio02\obj\Debug\Ejercicio02.csprojAssemblyReference.cache
+D:\Repos\TemarioExtra\Ejercicio02\Ejercicio02\obj\Debug\Ejercicio02.Form1.resources
+D:\Repos\TemarioExtra\Ejercicio02\Ejercicio02\obj\Debug\Ejercicio02.Properties.Resources.resources
+D:\Repos\TemarioExtra\Ejercicio02\Ejercicio02\obj\Debug\Ejercicio02.csproj.GenerateResource.cache
+D:\Repos\TemarioExtra\Ejercicio02\Ejercicio02\obj\Debug\Ejercicio02.csproj.CoreCompileInputs.cache
+D:\Repos\TemarioExtra\Ejercicio02\Ejercicio02\obj\Debug\Ejercicio02.exe
+D:\Repos\TemarioExtra\Ejercicio02\Ejercicio02\obj\Debug\Ejercicio02.pdb
