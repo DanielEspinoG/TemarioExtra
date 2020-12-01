@@ -179,5 +179,25 @@ namespace Examen
                 }
             }
         }
+
+        public static int ReadInteger (string message)
+        {
+            while (true)
+            {
+                try
+                {
+                    Console.WriteLine(message);
+                    string line = Console.ReadLine();
+                    int number = Convert.ToInt32(line);
+                    return number;
+                }
+                catch(Exception e)
+                {
+                    Console.WriteLine("error");
+                }
+            }
+        }
+
+
     }
 }
